@@ -1,7 +1,7 @@
 ---
 title: "Communication bounds for convolutional neural networks"
 collection: publications
-permalink: /publication/2022-07-12-CACNNs
+permalink: /publication/2022-07-12-Communication-bounds-for-convolutional-neural-networks
 excerpt: 'Convolutional neural networks (CNNs) are important in a wide variety of machine learning tasks and applications, so optimizing their performance is essential.'
 date: 2022-07-12
 venue: PASC '22: Proceedings of the Platform for Advanced Scientific Computing Conference'
