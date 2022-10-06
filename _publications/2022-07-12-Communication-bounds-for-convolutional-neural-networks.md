@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-07-12-Communication-bounds-for-convolutional-neural-networks
 excerpt: 'Convolutional neural networks (CNNs) are important in a wide variety of machine learning tasks and applications, so optimizing their performance is essential.'
 date: 2022-07-12
-venue: PASC '22: Proceedings of the Platform for Advanced Scientific Computing Conference'
+venue: 'PASC 22: Proceedings of the Platform for Advanced Scientific Computing Conference'
 paperurl: 'https://dl.acm.org/doi/10.1145/3539781.3539784'
 citation: 'Anthony Chen, James Demmel, Grace Dinh, Mason Haberle, and Olga Holtz. 2022. Communication bounds for convolutional neural networks. In Proceedings of the Platform for Advanced Scientific Computing Conference (PASC '22). Association for Computing Machinery, New York, NY, USA, Article 1, 1–10. https://doi.org/10.1145/3539781.3539784'
 ---
