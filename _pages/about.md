@@ -21,6 +21,7 @@ Some Hobbies
 * Photography and travel: next up is Istanbul
 * Video games: currently playing _Ensemble Stars!!_
 * Reading: I highly recommend _Omniscient Reader's Viewpoint_
+* I play some piano, occasionally, maybe
 
 ## Land Acknowledgement
 
