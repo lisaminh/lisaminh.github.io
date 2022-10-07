@@ -38,6 +38,7 @@ Awards and Grants
 * ACM Student Travel Grant, 2022
 * University of Michigan James T. Neubacher Award Honorable Mention, 2021
 * NSF GRFP Honorable Mention, 2021
+* Summer Undergraduate Research Fellowship, University of California, Berkeley, 2020
 
 Teaching
 ======

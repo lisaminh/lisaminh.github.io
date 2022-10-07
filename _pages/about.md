@@ -28,6 +28,7 @@ Other Things I Have Feelings About
 ======
 * Urbanism, cities, public transportation
 * Aviation, global connectivity
+* Climate change
 
 ## Land Acknowledgement
 
