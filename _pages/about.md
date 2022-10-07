@@ -20,8 +20,14 @@ Some Hobbies
 ======
 * Photography and travel: next up is Istanbul
 * Video games: currently playing _Ensemble Stars!!_
-* Reading: I highly recommend _Omniscient Reader's Viewpoint_
+* Reading: I highly recommend _[Omniscient Reader's Viewpoint](https://orv-epub.carrd.co/)_ and _[Overgeared](https://www.wuxiaworld.com/novel/overgeared)_
+* Anime: find me on [anilist](https://anilist.co/user/angetenar/)
 * I play some piano, occasionally, maybe
+
+Other Things I Have Feelings About
+======
+* Urbanism, cities, public transportation
+* Aviation, global connectivity
 
 ## Land Acknowledgement
 
