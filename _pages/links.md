@@ -13,6 +13,7 @@ author_profile: true
 * [Moosinesq Convection](https://arxiv.org/abs/2204.00002 "meese"), in the Cores of Moosive Stars
 * The [finite difference coefficient calculator](https://web.media.mit.edu/~crtaylor/calculator.html), made by Cameron R. Taylor
 * This [interactive fluid simulation](https://www.outpan.com/app/44bdd9869c/interactive-fluid-simulation)
+* The [matrix derivative calculator](http://www.matrixcalculus.org/)
 
 ## Other things
 * [Nullschool Earth](https://earth.nullschool.net/ "Nullschool Earth"), an amazing visualization of our planet as it currently is
