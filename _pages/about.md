@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Anthony, a PhD student at the University of Michigan, Ann Arbor. I am advised by [Robert Krasny](http://www.math.lsa.umich.edu/~krasny/), [Christiane Jablonowski](http://www-personal.umich.edu/~cjablono/), and [Brian Arbic](https://arbic.earth.lsa.umich.edu/).
+Hello! I'm Anthony, a PhD student at the University of Michigan, Ann Arbor. I am advised by [Robert Krasny](http://www.math.lsa.umich.edu/~krasny/), [Christiane Jablonowski](http://www-personal.umich.edu/~cjablono/), and [Brian Arbic](https://arbic.earth.lsa.umich.edu/). My PhD is in applied mathematics and scientific computing with a focus on numerical techniques for problems arising in atmospheric and oceanic modeling. 
 
-I have at times been described as a coastal elite; I do not take offense to this characterization. My favorite chocolate comes from the Oro de Cacao in Zurich, Switzerland. My favorite animal is the penguin; I almost took a selfie with one while I was in Antarctica. My heart yearns for crashing waves and salty sea breeze. I believe that fanfiction is a valuable form of media, and have been an avid consumer of fan works for the past ten or so years. I have also been playing gacha games in one form or another for the past ten years. The latest I've ever woken up is 8:30 am. My favorite matrix decomposition is the SVD. 
+I have at times been described as a coastal elite; I do not take offense to this characterization. My favorite chocolate comes from the Oro de Cacao in Zurich, Switzerland. My favorite animal is the penguin; I almost took a selfie with one while I was in Antarctica. My heart yearns for crashing waves and salty sea breeze. I believe that fanfiction is a valuable form of media, and have been an avid consumer of fan works for the past ten or so years. I have also been playing gacha games in one form or another for the past ten years. The latest I've ever woken up is 8:30 am. My favorite matrix decomposition is the SVD.
 
 ## Current Research Topics
 * Fast summation on the sphere
