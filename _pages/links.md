@@ -14,6 +14,7 @@ author_profile: true
 * The [finite difference coefficient calculator](https://web.media.mit.edu/~crtaylor/calculator.html), made by Cameron R. Taylor
 * This [interactive fluid simulation](https://www.outpan.com/app/44bdd9869c/interactive-fluid-simulation)
 * The [matrix derivative calculator](http://www.matrixcalculus.org/)
+* [Mathics](https://mathics.org/), a free open source alternative to Mathematica
 
 ## Other things
 * [Nullschool Earth](https://earth.nullschool.net/ "Nullschool Earth"), an amazing visualization of our planet as it currently is
