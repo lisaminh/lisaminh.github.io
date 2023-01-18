@@ -48,8 +48,11 @@ Teaching
 
 Service, Leadership, and Mentorship
 ======
+* Graduate Out in STEM Board Member at the University of Michigan, Ann Arbor, 2022
 * Peer Mentor in the Math Department at the University of Michigan, Ann Arbor, 2022
-* Lab of Geometry Mentor, 2022
+* Lab of Geometry Mentor, 2022. Projects mentored:
+  * Steady States of Rayleigh-Bénard Convection with Baole Wen
+  * Exploring numerical schemes for conservation laws with Maria Han Veiga
 * The Mathematics Undergraduate Student Association at the University of California, Berkeley
   * Professional Chair, 2018 - 2019
   * Vice President, 2019 - 2020
