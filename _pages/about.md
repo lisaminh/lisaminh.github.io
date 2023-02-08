@@ -23,12 +23,12 @@ I have at times been described as a coastal elite; I do not take offense to this
 * Communication avoiding algorithms
 
 ## Some Hobbies
-* Photography and travel: next up is Istanbul
+* Photography and travel: next up is Amsterdam
 * Video games: currently playing _Ensemble Stars!!_ and _[Fallen London](https://www.fallenlondon.com/profile/Acamar)_
 * Reading: I highly recommend _[Omniscient Reader's Viewpoint](https://orv-epub.carrd.co/)_ and _[Overgeared](https://www.wuxiaworld.com/novel/overgeared)_
 * Anime: find me on [anilist](https://anilist.co/user/angetenar/)
 * I play some piano, occasionally, maybe
-* Cooking: I've recently acquired a new set of stainless steel cookware from [Made In](https://madeincookware.com/) and I think it's great
+* Cooking: I've recently acquired perilla oil and strawberry gochujang from Gochujar and it is excellent
 
 ## Other Things I Have Feelings About
 * Urbanism, cities, public transportation
@@ -40,4 +40,4 @@ I have at times been described as a coastal elite; I do not take offense to this
 
 The University of Michigan's origins are in a land grant from the Anishinaabeg (including Odawa, Ojibwe, and Boodewadomi) and Wyandot. I further acknowledge that our university stands, like almost all property in the United States, on lands obtained, generally in unconscionable ways, from indigenous peoples. Knowing where we live and work does not change the past, but a thorough understanding of the ongoing consequences of this past can empower us in our research, teaching, and outreach to create a future that supports human flourishing and justice for all individuals. If you'd like to learn more about land acknowledgements, I'd encourage you to give [this](https://nativegov.org/news/a-guide-to-indigenous-land-acknowledgment/) a read.
 
-In addition, as someone working on research tangentially related to climate change, I feel that it is important to acknowledge that Native Americans and other Indigenous Peoples are among the most effective groups are conserving and sustainably managing the land that we all live and depend on, and have long modeled sustainable land management techniques that we can all learn from. Indigenous land rights are a critical pillar of climate action, and good land (forests, especially) management is essential in the fight against climate change. If you want to learn more about traditional and indigenous ecological and environmental knowledge, then [this article](https://academic.oup.com/bioscience/article/52/5/432/236145) may be a good place to start. 
+In addition, as someone working on research tangentially related to climate change, I feel that it is important to acknowledge that Native Americans and other Indigenous Peoples are among the most effective groups are conserving and sustainably managing the land that we all live and depend on, and have long modeled sustainable land management techniques that we can all learn from. Indigenous land rights are a critical pillar of climate action, and good land (forests, especially) management is essential in the fight against climate change. If you want to learn more about traditional and indigenous ecological and environmental knowledge, then [this article](https://academic.oup.com/bioscience/article/52/5/432/236145) may be a good place to start.
