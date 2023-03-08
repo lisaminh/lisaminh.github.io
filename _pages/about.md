@@ -27,7 +27,7 @@ I have at times been described as a coastal elite; I do not take offense to this
 * Communication avoiding algorithms
 
 ## Some Hobbies
-* Photography and travel: next up is Amsterdam
+* Photography and travel: next up is Portugal
 * Video games: currently playing _Ensemble Stars!!_ and _[Fallen London](https://www.fallenlondon.com/profile/Acamar)_
 * Reading: I highly recommend _[Omniscient Reader's Viewpoint](https://orv-epub.carrd.co/)_ and _[Overgeared](https://www.wuxiaworld.com/novel/overgeared)_
 * Anime: find me on [anilist](https://anilist.co/user/angetenar/)
