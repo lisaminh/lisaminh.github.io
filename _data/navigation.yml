@@ -9,13 +9,10 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Research"
-    url: /research/
-
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
+  - title: "Research Notes"
     url: /posts/
 
   # - title: "Travel"
