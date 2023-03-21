@@ -10,4 +10,4 @@ In one dimension, the Chebyshev points are well known and behave excellently, es
 
 I use an alternative approach. We start with equidistant points: ![equally spaced points][{{site.url}}/images/equipoints.png]
 
-Then, to get our interpolating points out of these, we apply the function that we use to go to Chebyshev nodes to each barycentric coordinate and then normalize, resulting in points moving towards the corners: ![better points][/images/fekepoints.png]
+Then, to get our interpolating points out of these, we apply the function that we use to go to Chebyshev nodes to each barycentric coordinate and then normalize, resulting in points moving towards the corners: ![better points][{{site.url}}/images/fekepoints.png]
