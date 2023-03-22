@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anthony Chen"
+title                    : "Lisa Nguyen"
 title_separator          : "-"
-name                     : &name "Anthony Chen"
+name                     : &name "Lisa Nguyen"
 description              : &description "PhD Student at the University of Michigan, Ann Arbor"
-url                      : https://cygnari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lisaminhnguyen.github.io/lisaminh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cygnari/cygnari.github.io"
+repository               : "lisaminhnguyen/lisaminh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anthony Chen"
-  avatar           : "switzerlandpicture.png"
-  bio              : "A picture of me in the Swiss Alps, July 2022"
+  name             : "Lisa Nguyen"
+  avatar           : "headshot 2.png"
+  bio              : 
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "cygnari@umich.edu"
+  email            : "lisaminh@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,18 +96,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cygnari"
+  github           : "lisaminhnguyen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "anthony-chen-76633516a"
-  orcid            : "http://orcid.org/0000-0003-0760-8329"
+  linkedin         : #"anthony-chen-76633516a"
+  orcid            : #"http://orcid.org/0000-0003-0760-8329"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "Cygnari"
+  steam            : #"Cygnari"
   tumblr           :
   twitter          :
   vine             :
