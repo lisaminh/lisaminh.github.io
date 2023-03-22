@@ -14,17 +14,17 @@ Education
 * B.A. in Applied Mathematics, University of California, Berkeley, 2021
 * In Progress Ph.D in Applied and Interdisciplinary Mathematics and Scientific Computing, University of Michigan, Ann Arbor, 2027 (expected)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+%Publications
+%======
+%  <ul>{% for post in site.publications %}
+%    {% include archive-single-cv.html %}
+%  {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+%Talks
+%======
+%  <ul>{% for post in site.talks %}
+%    {% include archive-single-talk-cv.html %}
+%  {% endfor %}</ul>
 
 Conferences and Workshops
 ======
