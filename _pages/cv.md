@@ -14,12 +14,6 @@ Education
 * B.A. in Pure Mathematics, University of California, Berkeley, 2019
 * In Progress Ph.D in Applied Physics and Scientific Computing, University of Michigan, Ann Arbor, 2026 (expected)
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
 Service, Leadership, and Mentorship
 ======
 * Activities Coordinator for [Math Corps at the University of Michigan](https://sites.lsa.umich.edu/math-corps/), Ann Arbor (2019-present)
