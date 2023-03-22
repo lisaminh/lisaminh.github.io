@@ -22,6 +22,6 @@ Talks
 
 Service, Leadership, and Mentorship
 ======
-* Peer Mentor
-* Activities Coordinator for Math Corps at the University of Michigan, Ann Arbor (2019-present)
-* [FATE] mentorship
+* Activities Coordinator for [Math Corps at the University of Michigan](https://sites.lsa.umich.edu/math-corps/), Ann Arbor (2019-present)
+* [FATE](https://givemerit.org/pages/fate) mentor in Detroit (2022-present)
+* Peer Mentor for Applied Physics at the Univeristy of Michigan, Ann Arbor (2022-present) 
