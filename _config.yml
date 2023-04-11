@@ -13,7 +13,7 @@ name                     : &name "Lisa Nguyen"
 description              : &description "PhD Student at the University of Michigan, Ann Arbor"
 url                      : https://lisaminh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lisaminhnguyen/lisaminh.github.io"
+repository               : "lisaminh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -106,8 +106,8 @@ author:
   orcid            : #"http://orcid.org/0000-0003-0760-8329"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : #"Cygnari"
+  stackoverflow    : 
+  steam            : 
   tumblr           :
   twitter          :
   vine             :
