@@ -14,4 +14,5 @@ Some people I know (people listed in no particular order):
 * [Alex Lojko](https://alexlojko.github.io/), a grad student in climate and space sciences at UMich
 * [Garrett Limon](https://sites.google.com/umich.edu/garrettlimon/home), a grad student in climate and space sciences at UMich
 * [Owen Hughes](http://owenhugh.es/), a grad student in climate and space sciences at UMich
+* [Alexander Bertoloni Meli](http://www-personal.umich.edu/~abertolo/), a number theory post doc in mathematics at UMich
 * [Erika Hathaway](http://www-personal.umich.edu/~hathawae/), a grad student in space science at UM

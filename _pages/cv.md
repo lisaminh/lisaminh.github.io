@@ -19,3 +19,4 @@ Service, Leadership, and Mentorship
 * Activities Coordinator for [Math Corps at the University of Michigan](https://sites.lsa.umich.edu/math-corps/), Ann Arbor (2019-present)
 * [FATE](https://givemerit.org/pages/fate) mentor in Detroit (2022-present)
 * Peer Mentor for Applied Physics at the Univeristy of Michigan, Ann Arbor (2022-present) 
+* Volunteer at the Michigan Mathematics Circle (2022-present)
