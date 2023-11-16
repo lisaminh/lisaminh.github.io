@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* B.A. in Physics, University of California, Berkeley, 2019
 * B.A. in Pure Mathematics, University of California, Berkeley, 2019
 * In Progress Ph.D in Applied Physics and Scientific Computing, University of Michigan, Ann Arbor, 2026 (expected)
 
