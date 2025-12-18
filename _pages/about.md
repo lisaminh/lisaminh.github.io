@@ -13,6 +13,8 @@ I am an Applied Physics PhD student at the University of Michigan interested in 
 ## Current Research Interests
 * Spatially Compound an Synchronous Droughts in a Warming Climate
 * Unprecedented Extreme Precipitaiton Events
+
+## Previous Research
 * Stratospheric Dynamics and Variability in climate models
 * Precipitation variance spectra in high resolution climate models
 * Feedback-controller algorithms for simulating stratospheric aerosol injections (SAI)
