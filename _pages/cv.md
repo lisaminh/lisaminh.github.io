@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+## Curriculum Vitae
+
+<iframe 
+  src="{{ site.baseurl }}/files/cv.pdf" 
+  width="100%" 
+  height="900px" 
+  style="border: none;">
+</iframe>
+
+[Download CV (PDF)]({{ site.baseurl }}/files/cv.pdf)
+
 Education
 ======
 * B.A. in Physics, University of California, Berkeley, 2019
