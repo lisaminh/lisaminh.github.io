@@ -8,6 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
+## Unprecedented Extreme Precipitation Risk Under Climate Warming
+This project quantifies how anthropogenic warming increases the likelihood of record-breaking extreme precipitation events worldwide by combining climate model projections with population exposure and socioeconomic vulnerability. We show that low- and lower-middle-income countries face disproportionately higher risks, with projected exposure to unprecedented storms increasing by up to an order of magnitude by +4 °C warming due to the combined effects of intensifying hazards, rapid population growth, and limited adaptive capacity.
+
+## Drought Synchronicity Across the United States
+This project examines when and why droughts occur simultaneously across multiple U.S. regions using high-resolution climate data from 1980–2021. We show that drought synchronicity has intensified since the early 2000s, particularly in the Great Plains and Midwest, and that atmospheric evaporative demand and large-scale climate modes (e.g., NPGO, PMM) play a key role in amplifying or suppressing these spatially connected droughts.
+
+
 ## Investigating Stratopheric Circulation in the DoE climate model E3SMv2 (CMIP6 protocol)
 There is a need to understand how well our climate models capture stratospheric motions, especially motivated by climate intervention techniques, such as stratospheric aerosol injections. This work investigates the stratopheric circulation of the DoE's earth system model [E3SMv2](https://e3sm.org/), run under [CMIP6](https://wcrp-cmip.org/cmip-phase-6-cmip6/) guidelines. This work will be used in assessing the variability of the stratosphere and is funded by the [CLDERA Grand Challenge](https://www.sandia.gov/cldera/).  
 
