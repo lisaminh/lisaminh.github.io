@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lisa Nguyen"
   avatar           : "headshot 2.jpg"
-  bio              : 
-  location         : "Ann Arbor, Michigan"
-  employer         :
+  bio              : "PhD Student in Applied Physics"
+  location         : 
+  employer         : "University of Michigan"
   pubmed           :
   googlescholar    :
   email            : "lisaminh@umich.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lisaminh"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
