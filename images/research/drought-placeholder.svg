@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Drought synchronicity figure placeholder</title>
+  <desc id="desc">Abstract placeholder graphic for a future drought research figure.</desc>
+  <rect width="800" height="520" fill="#f4f1ea"/>
+  <rect x="95" y="95" width="150" height="125" rx="10" fill="#d9c9ad"/>
+  <rect x="325" y="165" width="150" height="125" rx="10" fill="#cdbb9e"/>
+  <rect x="555" y="90" width="150" height="125" rx="10" fill="#dfd2bd"/>
+  <path d="M245 157 C275 145 295 175 325 210 M475 227 C510 205 525 170 555 152" fill="none" stroke="#806d55" stroke-width="10" stroke-linecap="round"/>
+  <path d="M120 375 L235 325 L350 390 L470 305 L675 375" fill="none" stroke="#9c8261" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#5f5548">Figure placeholder</text>
+</svg>

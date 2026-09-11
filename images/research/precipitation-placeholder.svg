@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Extreme precipitation figure placeholder</title>
+  <desc id="desc">Abstract placeholder graphic for a future precipitation research figure.</desc>
+  <rect width="800" height="520" fill="#eef3f7"/>
+  <circle cx="170" cy="185" r="80" fill="#cbd9e4"/>
+  <circle cx="620" cy="340" r="105" fill="#d8e3eb"/>
+  <path d="M65 390 C155 300 235 410 325 315 C410 225 495 365 590 245 C660 155 710 215 755 145" fill="none" stroke="#59758c" stroke-width="14" stroke-linecap="round"/>
+  <text x="400" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#445566">Figure placeholder</text>
+</svg>
