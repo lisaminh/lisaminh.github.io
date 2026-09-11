@@ -86,7 +86,7 @@ author:
   location         : 
   employer         : "University of Michigan"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=I46gSJ8AAAAJ&hl=en"
   email            : "lisaminh@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"anthony-chen-76633516a"
+  linkedin         : "lisa-nguyen-76568914a"
   orcid            : "https://orcid.org/0009-0002-5831-1015"
   pinterest        :
   soundcloud       :
