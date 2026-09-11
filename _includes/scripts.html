@@ -1,4 +1,35 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("a[href]").forEach(function (link) {
+    try {
+      var url = new URL(link.href, window.location.href);
+      var isHttpLink = url.protocol === "http:" || url.protocol === "https:";
+      var isExternalLink = isHttpLink && url.hostname !== window.location.hostname;
+
+      if (isExternalLink) {
+        link.target = "_blank";
+
+        var relValues = (link.getAttribute("rel") || "")
+          .split(/\s+/)
+          .filter(Boolean);
+
+        if (relValues.indexOf("noopener") === -1) {
+          relValues.push("noopener");
+        }
+        if (relValues.indexOf("noreferrer") === -1) {
+          relValues.push("noreferrer");
+        }
+
+        link.setAttribute("rel", relValues.join(" "));
+      }
+    } catch (error) {
+      // Leave malformed or non-standard links unchanged.
+    }
+  });
+});
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
