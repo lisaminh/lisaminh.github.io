@@ -86,7 +86,7 @@ redirect_from:
   <div class="research-project__body">
     <figure class="research-project__image">
       <img src="{{ base_path }}/images/research/precipitation-placeholder.svg" alt="Placeholder for an extreme precipitation research figure">
-      <figcaption>Placeholder for future research figure.</figcaption>
+      <figcaption> </figcaption>
     </figure>
     <div class="research-project__text">
       <p>This project quantifies how anthropogenic warming increases the likelihood of record-breaking extreme precipitation events worldwide by combining climate model projections with population exposure and socioeconomic vulnerability. We show that low- and lower-middle-income countries face disproportionately higher risks, with projected exposure to unprecedented storms increasing by up to an order of magnitude by +4 °C warming due to the combined effects of intensifying hazards, rapid population growth, and limited adaptive capacity.</p>
@@ -102,7 +102,7 @@ redirect_from:
     </div>
     <figure class="research-project__image">
       <img src="{{ base_path }}/images/research/drought-placeholder.svg" alt="Placeholder for a drought synchronicity research figure">
-      <figcaption>Placeholder for future research figure.</figcaption>
+      <figcaption> </figcaption>
     </figure>
   </div>
 </section>
@@ -126,7 +126,7 @@ redirect_from:
   <div class="research-project__body">
     <figure class="research-project__image">
       <img src="{{ base_path }}/images/research/spectra-placeholder.svg" alt="Placeholder for a precipitation spectra research figure">
-      <figcaption>Placeholder for future research figure.</figcaption>
+      <figcaption> </figcaption>
     </figure>
     <div class="research-project__text">
       <p>Precipitation projections in climate models contain large amounts of uncertainty and suffer from a "drizzle effect", where the model output precipitation is always lightly raining. As climate models increase their spatial resolution, we would hope to more accurately capture the more extreme precipitation events that have profound impacts on our society. This study looks at the power spectrum of the precipitation variance of low, medium, and high resolution models and compares them to rain gauge information. The goal is to understand if increasing resolution can capture the high frequency high intensity rain events that we see in observation.</p>
