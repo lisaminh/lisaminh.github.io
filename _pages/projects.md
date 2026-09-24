@@ -82,11 +82,14 @@ redirect_from:
 </style>
 
 <section class="research-project">
-  <h2>Unprecedented Extreme Precipitation Risk Under Climate Warming</h2>
+  <h2><a href="https://www.nature.com/articles/s43247-026-03649-y" target="_blank" rel="noopener noreferrer">Unprecedented Extreme Precipitation Risk Under Climate Warming</a></h2>
   <div class="research-project__body">
     <figure class="research-project__image">
-      <img src="{{ base_path }}/images/research/precipitation-placeholder.svg" alt="Placeholder for an extreme precipitation research figure">
-      <figcaption> </figcaption>
+      <a href="{{ base_path }}/images/research/uepe_exp_fig.webp" target="_blank" rel="noopener noreferrer" aria-label="Open the UEPE exposure figure at full resolution in a new tab">
+        <img src="{{ base_path }}/images/research/uepe_exp_fig.webp" alt="Four maps of country-level UEPE exposure at +1.5, +2.0, +3.0, and +4.0 degrees Celsius of global warming, with a stacked area plot of exposure by income group.">
+      </a>
+      <!-- Edit the UEPE figure caption below. -->
+      <figcaption><strong>a</strong>–<strong>d</strong>) Total country-level exposure to unprecedented extreme precipitation events (UEPEs) in billion person-events per decade at +1.5 °C, +2.0 °C, +3.0 °C, and +4.0 °C GWL. <strong>e)</strong> Stacked area plot of projected exposure to unprecedented events by income group for each GWL. Exposure is calculated according to Eq. (<a href="https://www.nature.com/articles/s43247-026-03649-y#Equ4" target="_blank" rel="noopener noreferrer">4</a>). All exposures are aggregated per decade.</figcaption>
     </figure>
     <div class="research-project__text">
       <p>This project quantifies how anthropogenic warming increases the likelihood of record-breaking extreme precipitation events worldwide by combining climate model projections with population exposure and socioeconomic vulnerability. We show that low- and lower-middle-income countries face disproportionately higher risks, with projected exposure to unprecedented storms increasing by up to an order of magnitude by +4 °C warming due to the combined effects of intensifying hazards, rapid population growth, and limited adaptive capacity.</p>
