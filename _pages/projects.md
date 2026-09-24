@@ -28,17 +28,28 @@ redirect_from:
 
 .research-project__body {
   display: grid;
-  grid-template-columns: minmax(220px, 0.9fr) minmax(0, 1.35fr);
+  grid-template-columns: minmax(0, 0.65fr) minmax(0, 1.35fr);
   gap: 2rem;
   align-items: start;
 }
 
 .research-project__body--reverse {
-  grid-template-columns: minmax(0, 1.35fr) minmax(220px, 0.9fr);
+  grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.65fr);
 }
 
 .research-project__image {
   margin: 0;
+  width: 100%;
+  max-width: 260px;
+  min-width: 0;
+}
+
+.research-project__body--reverse .research-project__image {
+  justify-self: end;
+}
+
+.research-project__text {
+  min-width: 0;
 }
 
 .research-project__image img {
@@ -73,7 +84,7 @@ redirect_from:
   margin-top: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 599px) {
   .research-project {
     margin-bottom: 3.25rem;
     padding-bottom: 3.25rem;
@@ -86,6 +97,7 @@ redirect_from:
   }
 
   .research-project__body--reverse .research-project__image {
+    justify-self: start;
     order: 1;
   }
 
@@ -154,13 +166,7 @@ redirect_from:
 
 <section class="research-project">
   <h2>Precipitation Variance Spectra in Rain Gauges vs Models</h2>
-  <div class="research-project__body">
-    <figure class="research-project__image">
-      <img src="{{ base_path }}/images/research/spectra-placeholder.svg" alt="Placeholder for a precipitation spectra research figure">
-      <figcaption> </figcaption>
-    </figure>
-    <div class="research-project__text">
+  <div class="research-project__text">
       <p>Precipitation projections in climate models contain large amounts of uncertainty and suffer from a "drizzle effect", where the model output precipitation is always lightly raining. As climate models increase their spatial resolution, we would hope to more accurately capture the more extreme precipitation events that have profound impacts on our society. This study looks at the power spectrum of the precipitation variance of low, medium, and high resolution models and compares them to rain gauge information. The goal is to understand if increasing resolution can capture the high frequency high intensity rain events that we see in observation.</p>
     </div>
-  </div>
 </section>
