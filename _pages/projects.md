@@ -55,6 +55,20 @@ redirect_from:
   color: #777777;
 }
 
+.research-project__panels {
+  display: grid;
+  gap: 1rem;
+}
+
+.research-project__panel-label {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.research-project__math {
+  white-space: nowrap;
+}
+
 .research-project__text p:first-child {
   margin-top: 0;
 }
@@ -104,8 +118,22 @@ redirect_from:
       <p>This project examines when and why droughts occur simultaneously across multiple U.S. regions using high-resolution climate data from 1980–2021. We show that drought synchronicity has intensified since the early 2000s, particularly in the Great Plains and Midwest, and that atmospheric evaporative demand and large-scale climate modes (e.g., NPGO, PMM) play a key role in amplifying or suppressing these spatially connected droughts.</p>
     </div>
     <figure class="research-project__image">
-      <img src="{{ base_path }}/images/research/drought-placeholder.svg" alt="Placeholder for a drought synchronicity research figure">
-      <figcaption> </figcaption>
+      <div class="research-project__panels">
+        <div class="research-project__panel">
+          <strong class="research-project__panel-label">a)</strong>
+          <a href="{{ base_path }}/images/research/eca_r_in.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open panel a, drought synchronization strength, at full resolution in a new tab">
+            <img src="{{ base_path }}/images/research/eca_r_in.jpg" alt="Panel a: Map of aggregate incoming drought coincidence rates across 20 regions of the contiguous United States.">
+          </a>
+        </div>
+        <div class="research-project__panel">
+          <strong class="research-project__panel-label">b)</strong>
+          <a href="{{ base_path }}/images/research/pet_eca_r_in.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open panel b, PET contributions to drought synchronization, at full resolution in a new tab">
+            <img src="{{ base_path }}/images/research/pet_eca_r_in.jpg" alt="Panel b: Map of the difference between SPEI and SPI aggregate incoming drought coincidence rates across 20 regions of the contiguous United States.">
+          </a>
+        </div>
+      </div>
+      <!-- Edit the drought synchronicity figure caption below. -->
+      <figcaption><strong>a)</strong> Synchronization strength indicated by aggregated incoming coincidence rates (<span class="research-project__math"><i>r</i><sub>agg</sub><sup>in</sup></span>) for each region. The “Incoming” rate is the weighted fraction of how often the region's drought is preceded by another region's drought. <strong>b)</strong> Contributions of PET to synchronization rates, highlighted by the difference between SPEI and SPI aggregate incoming rate (<span class="research-project__math">Δ<i>r</i><sub>agg</sub><sup>in</sup></span>).</figcaption>
     </figure>
   </div>
 </section>
